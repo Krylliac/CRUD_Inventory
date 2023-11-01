@@ -1,4 +1,4 @@
-#Inventory CRUD
+# Inventory CRUD
 This is a program to Basic Inventory system using Mysql and VB.Net. this program provide save, edit, delete and upload picture into MySql database.
 Very Old Project need some plugin and some extension to install while adding some refference, the compile is using 4.8 NET
 
